@@ -1,0 +1,19 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="24" fill="white"/>
+
+  <rect x="34" y="24" width="12" height="168" fill="#F28C00"/>
+  <rect x="68" y="24" width="12" height="168" fill="#F28C00"/>
+  <rect x="176" y="24" width="12" height="168" fill="#F28C00"/>
+  <rect x="210" y="24" width="12" height="168" fill="#F28C00"/>
+
+  <rect x="80" y="36" width="96" height="16" fill="#F28C00"/>
+  <rect x="80" y="164" width="96" height="16" fill="#F28C00"/>
+
+  <ellipse cx="128" cy="92" rx="60" ry="30" fill="#F28C00"/>
+  <text x="128" y="100" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">INADES</text>
+
+  <path d="M121 64L128 52L135 64L128 76L121 64Z" fill="#F28C00"/>
+  <path d="M121 152L128 140L135 152L128 164L121 152Z" fill="#F28C00"/>
+
+  <text x="128" y="226" text-anchor="middle" fill="#F28C00" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700">Formation</text>
+</svg>

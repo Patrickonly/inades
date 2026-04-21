@@ -1,0 +1,33 @@
+<svg width="520" height="140" viewBox="0 0 520 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="140" rx="12" fill="white"/>
+
+  <g transform="translate(14,14)">
+    <rect x="0" y="0" width="98" height="112" rx="8" fill="#F28C00" opacity="0.12"/>
+
+    <rect x="4" y="6" width="8" height="100" fill="#F28C00"/>
+    <rect x="26" y="6" width="8" height="100" fill="#F28C00"/>
+    <rect x="64" y="6" width="8" height="100" fill="#F28C00"/>
+    <rect x="86" y="6" width="8" height="100" fill="#F28C00"/>
+
+    <rect x="12" y="19" width="74" height="7" fill="#F28C00"/>
+    <rect x="12" y="87" width="74" height="7" fill="#F28C00"/>
+
+    <circle cx="49" cy="23" r="11" fill="#F28C00"/>
+    <circle cx="49" cy="91" r="11" fill="#F28C00"/>
+
+    <circle cx="49" cy="23" r="5" fill="white"/>
+    <circle cx="49" cy="91" r="5" fill="white"/>
+
+    <rect x="46" y="37" width="6" height="40" fill="#F28C00"/>
+
+    <rect x="22" y="42" width="54" height="2" fill="#F28C00" opacity="0.6"/>
+    <rect x="22" y="70" width="54" height="2" fill="#F28C00" opacity="0.6"/>
+
+    <text x="49" y="62" text-anchor="middle" fill="#F28C00" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">INADES</text>
+    <text x="49" y="108" text-anchor="middle" fill="#F28C00" font-size="13" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Formation</text>
+  </g>
+
+  <text x="126" y="58" fill="#F28C00" font-size="52" font-family="Segoe UI, Arial, sans-serif" font-weight="700">INADES-Formation</text>
+  <text x="130" y="92" fill="#F28C00" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-style="italic">Servir le bien commun</text>
+  <text x="130" y="120" fill="#F28C00" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-style="italic">Serving common good</text>
+</svg>
